@@ -173,4 +173,4 @@ async def on_message(message):
                             await message.channel.send(f'<@{player1}> Choose a Position (1-9) : ')
 
 
-client.run('OTM3MjU5MzI3NTkxNDI0MDAw.YfZIxQ.fAKLSV4lfdMg-AdUDnkpaJ7uJo0')
+client.run('YOUR_TOKEN')

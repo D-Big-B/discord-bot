@@ -65,4 +65,4 @@ async def on_message(message):
                 magic_on = False
 
 
-client.run('OTM3MjU5MzI3NTkxNDI0MDAw.YfZIxQ.fAKLSV4lfdMg-AdUDnkpaJ7uJo0')
+client.run('YOUR_TOKEN')

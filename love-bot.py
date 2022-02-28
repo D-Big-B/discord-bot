@@ -84,9 +84,5 @@ async def on_message(message):
         name2 = name[1]
         await calculate_love(name1, name2, message)
 
-    # name = '!Love first_person and second_person'
-    # print(name[0:5])
-    # real_name = name[6:]
-    # print(real_name.split(' and '))
 
-client.run('OTM3MjU5MzI3NTkxNDI0MDAw.YfZIxQ.fAKLSV4lfdMg-AdUDnkpaJ7uJo0')
+client.run('YOUR_TOKEN')
